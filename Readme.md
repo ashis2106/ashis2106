@@ -1,4 +1,4 @@
-# Hey there, I'm Md Dilshad Alam! 👋
+# Hey there, I'm Ashish! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=4000&pause=1000&color=F7291D&vCenter=true&random=false&width=500&lines=Learning+Full+Stack+Development;Intemediate+Graphic+Designer;Learning+New+Skills)](https://git.io/typing-svg)
 
@@ -73,7 +73,7 @@ Let's connect and collaborate to create something incredible!
   </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamdilshad87&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ashis2016&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alamdilshad87&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ashis2016&icon=0&color=0)](https://visitcount.itsvg.in)
