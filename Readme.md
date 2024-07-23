@@ -12,8 +12,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alamdilshad87-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamdilshad87)
-[![GitHub](https://img.shields.io/badge/Github-alamdilshad87-black?style=flat&logo=github&logoColor=white)](https://github.com/alamdilshad87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashish2106-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamdilshad87)
+[![GitHub](https://img.shields.io/badge/Github-ashish-2106-black?style=flat&logo=github&logoColor=white)](https://github.com/alamdilshad87)
 [![CodeChef](https://img.shields.io/badge/CodeChef-alamdilshad87-%23B92B27?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/alam_dilshad87)
 [![HackerRank](https://img.shields.io/badge/HackerRank-alamdilshad87-brightgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ma8680)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-alamdilshad87-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/alam_dilshad87)
