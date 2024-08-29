@@ -42,35 +42,3 @@
 Currently, I'm diving deeper into the world of Data Structures and Algorithms, aiming to enhance my problem-solving skills and achieve a 2-star rating on CodeChef. Simultaneously, I'm also crafting my skills in web and app development to turn my innovative ideas into reality. When I'm not coding, you can find me with a camera, capturing the beauty around, or immersed in creative graphic design projects.
 
 Let's connect and collaborate to create something incredible!
-
-## Cloud Badges
-
-<img src="./aws-academy-graduate-aws-academy-cloud-foundations.png" width="220" height="220">  <img src="aws-academy-graduate-aws-academy-cloud-architecting.png" width="220" height="220">  <img src="Google_Cloud_Lvl3.png" width="220" height="220">  <img src="./Badges/Generative AI.png" width="250" height="240">  <img src="./Badges/Fundamentals.png" width="250" height="240">  <img src="./Badges/Infra.png" width="250" height="240">  <img src="./Badges/Networking.png" width="250" height="240">  <img src="./Badges/Data.png" width="250" height="240">  <img src="./Badges/Manage.png" width="300" height="240">  <img src="./Badges/Build.png" width="300" height="240">  <img src="./Badges/Samrt.png" width="300" height="240">  <img src="./Badges/Found Infra.png" width="300" height="240">
-
-
-
-
-
-## My Holopins : 🦖
-
-
-[![An image of @alamdilshad87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alamdilshad87)](https://holopin.io/@alamdilshad87)
-
-# ⚙️ GitHub Analytics
-  
-<table>
-  <tr>
-<td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=alamdilshad87&show_icons=true&theme=dark" />
-    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamdilshad87&layout=compact&theme=dark" /></td>
-  </tr>
-</table>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamdilshad87&layout=compact&theme=dark" alt="alamdilshad87"/></p>
-  </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashis2016&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ashis2016&icon=0&color=0)](https://visitcount.itsvg.in)
