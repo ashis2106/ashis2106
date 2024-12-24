@@ -14,7 +14,20 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashish2106-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish2106)
-[![Instagram](https://img.shields.io/badge/Instagram-ashish_jhajharia__-pink?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ashish_jhajharia__)
+[![Instagram](https://img.shields.io/badge/Instagram-ashish_jhajharia__-C13584?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ashish_jhajharia__)
+
+<style>
+.insta-button {
+  background: linear-gradient(to right, orange, purple); /* Classic Instagram gradient */
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+</style>
+
+<div class="insta-button">Instagram</div>
 
 
 ## 🚀 Skills & Interests
