@@ -12,8 +12,9 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashish2106-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish2106)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashish2106-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish2106)
+[![Instagram](https://img.shields.io/badge/Instagram-ashish_jhajharia__-pink?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ashish_jhajharia__)
 
 
 ## 🚀 Skills & Interests
